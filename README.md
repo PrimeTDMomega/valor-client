@@ -5,7 +5,7 @@ Valor Client is a free, open-source, Minecraft 1.12.2 utility hacked client in t
 
  1. Install Minecraft 1.12.2
  2.  Install the latest Forge for 1.12.2  [(download)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
- 3.  Get the latest Valor Client version here  [(download)](https://github.com/PrimeTDMomega/valor-client/releasesr)
+ 3.  Get the latest Valor Client version here  [(download)](https://github.com/PrimeTDMomega/valor-client/releases)
  4. Put the file in your `.minecraft/mods` folder
  5. **ENJOY !**
  ## Contributions
