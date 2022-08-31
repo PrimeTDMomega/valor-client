@@ -3,11 +3,12 @@
 Valor Client is a free, open-source, Minecraft 1.12.2 utility hacked client in the form of a 1.12.2 forge mod made for the anarchy environment. It Has a long list of utility and pvp modules for anarchy servers. 
 ## Installation
 
- 1. Install Minecraft 1.12.2
- 2.  Install the latest Forge for 1.12.2  [(download)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
- 3.  Get the latest Valor Client version here  [(download)](https://github.com/PrimeTDMomega/valor-client/releases)
- 4. Put the file in your `.minecraft/mods` folder
- 5. **ENJOY !**
+ 1. Download the .jar file from the  [releases](https://github.com/PrimeTDMomega/valor-client/releases)  tab
+ 2.  Windows: Press  `Windows + R`  and type in  `%appdata%`  open the  `.minecraft/mods`  folder.
+     -   MacOS: Open Finder and open the  `minecraft/mods`  folder.
+ 3. -   Press  `RSHIFT`  to open the ClickGUI
+ 4. The command prefix is `.`
+
  ## Contributions
  ### Clone Repository
 
@@ -37,5 +38,3 @@ This will be using [IntelliJ IDEA](https://www.jetbrains.com/idea/) by JettBrain
  - [KaaskopThomas](https://github.com/CheeseHeadThomas) major dev
  - [Lev/Paidpopbob](https://github.com/paidpopbob) helped in development
  - [EvilHappy](https://github.com/ExploiterNub) hacked client expert
-
- 
