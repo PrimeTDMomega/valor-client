@@ -15,7 +15,7 @@ Valor Client is a free, open-source, Minecraft 1.12.2 utility hacked client in t
 Clone the repository to your local machine. Use the link of either your fork or the main repository.
 
 ```
-git clone https://github.com/lambda-client/lambda
+git clone https://github.com/PrimeTDMomega/valor-client.git
 
 ```
 
