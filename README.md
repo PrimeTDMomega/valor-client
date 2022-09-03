@@ -36,5 +36,6 @@ This will be using [IntelliJ IDEA](https://www.jetbrains.com/idea/) by JettBrain
 ## Contributors
  - [PrimeTDMomega](https://github.com/PrimeTDMomega) for existing
  - [KaaskopThomas](https://github.com/CheeseHeadThomas) major dev
+ - [2cpvp](https://github.com/2cpvp) major dev
  - [Lev/Paidpopbob](https://github.com/paidpopbob) helped in development
  - [EvilHappy](https://github.com/ExploiterNub) hacked client expert
