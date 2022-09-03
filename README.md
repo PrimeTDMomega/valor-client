@@ -35,6 +35,7 @@ This will be using [IntelliJ IDEA](https://www.jetbrains.com/idea/) by JettBrain
  -  Goto  `File > Project Structure... > SDKs`  and make sure an SDK for Java 8 is installed and selected, if not download it  [here](https://adoptium.net/?variant=openjdk8&jvmVariant=hotspot/)
 ## Links
 Discord - https://discord.gg/gPwQhtGnkh
+<br>
 GitHub - https://github.com/PrimeTDMomega/valor-client
 ## Contributors
  - [PrimeTDMomega](https://github.com/PrimeTDMomega) for existing
