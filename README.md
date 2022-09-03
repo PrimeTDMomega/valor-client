@@ -33,6 +33,9 @@ This will be using [IntelliJ IDEA](https://www.jetbrains.com/idea/) by JettBrain
  -  Open the project from  `File > Open...`
  -  Let the IDE collect dependencies and index the code.
  -  Goto  `File > Project Structure... > SDKs`  and make sure an SDK for Java 8 is installed and selected, if not download it  [here](https://adoptium.net/?variant=openjdk8&jvmVariant=hotspot/)
+## Links
+Discord - https://discord.gg/gPwQhtGnkh
+GitHub - https://github.com/PrimeTDMomega/valor-client
 ## Contributors
  - [PrimeTDMomega](https://github.com/PrimeTDMomega) for existing
  - [KaaskopThomas](https://github.com/CheeseHeadThomas) major dev
