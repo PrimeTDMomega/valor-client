@@ -33,6 +33,14 @@ This will be using [IntelliJ IDEA](https://www.jetbrains.com/idea/) by JettBrain
  -  Open the project from  `File > Open...`
  -  Let the IDE collect dependencies and index the code.
  -  Goto  `File > Project Structure... > SDKs`  and make sure an SDK for Java 8 is installed and selected, if not download it  [here](https://adoptium.net/?variant=openjdk8&jvmVariant=hotspot/)
+## FAQs
+Q1. **What all modules does Valor Client have ?**
+<BR>
+	  A list of all the client's modules are available on the Official Discord Server [here](https://discord.gg/gPwQhtGnkh)
+	  <br>
+Q2. **Will their be a Gradle Buildable version of the client ?**
+<br>
+A Gradle Buildable version will be released soon.
 ## Links
 Discord - https://discord.gg/gPwQhtGnkh
 <br>
