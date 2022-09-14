@@ -26,7 +26,7 @@ Run  `setupWorkspace.sh`  to initialize the environment. With terminal on Linux 
 
 ```
 
-### [](https://github.com/lambda-client/lambda#setup-ide)Ready IDE
+### Ready IDE
 
 This will be using [IntelliJ IDEA](https://www.jetbrains.com/idea/) by JettBrains the IDE.
 
