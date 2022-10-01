@@ -2,7 +2,6 @@
 ## Valor Client
 Valor Client is a free, open-source, Minecraft 1.12.2 utility hacked client in the form of a 1.12.2 forge mod made for the anarchy environment. It Has a long list of utility and pvp modules for anarchy servers. 
 
-Also KaaskopThomas added nocomment
 ## Installation
 
  1. Download the .jar file from the  [releases](https://github.com/PrimeTDMomega/valor-client/releases)  tab
