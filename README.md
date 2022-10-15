@@ -17,14 +17,12 @@ Clone the repository to your local machine. Use the link of either your fork or 
 
 ```
 git clone https://github.com/PrimeTDMomega/valor-client.git
-
 ```
 
 Run  `setupWorkspace.sh`  to initialize the environment. With terminal on Linux or  [Git Bash](https://gitforwindows.org/)  for Windows
 
 ```
 ./setupWorkspace.sh
-
 ```
 
 ### Ready IDE
