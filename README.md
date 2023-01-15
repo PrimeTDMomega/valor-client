@@ -1,4 +1,10 @@
-![Valor Client](https://cdn.discordapp.com/attachments/1009456925022367825/1013325699123261522/VC.png)
+![image](https://user-images.githubusercontent.com/105910256/212528389-97940b5b-67ed-4207-a901-9c50f17f176f.png)
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+<br>
+This was supposed to be the final commit but its really like the 3rd last commit, anyways it is very true and it has a rat I'M TELLING YOU DO NOT HAVE DOUBT, the person who ran the rat is technically dead so you may be able to skid the Auto-Crystal which is MUCH better then [3arthqu4ke / 3arthh4ck](https://github.com/3arthqu4ke/3arthh4ck) but even that is not safe. 
+
+
+
 ## Valor Client
 Valor Client is a free, open-source, Minecraft 1.12.2 utility hacked client in the form of a 1.12.2 forge mod made for the anarchy environment. It Has a long list of utility and pvp modules for anarchy servers. 
 
